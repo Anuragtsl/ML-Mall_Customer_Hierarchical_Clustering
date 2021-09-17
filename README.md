@@ -30,17 +30,17 @@ This input file contains the basic information (ID, age, gender, income, spendin
 * Purple - High Income, Low Spending
 * Blue - High Income, High Spending
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Mall_Customer_Hierarchical_Clustering/blob/main/Mall%20Customer%20Hierarchical%20Clustering.ipynb) for more!!***
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Mall_Customer_Hierarchical_Clustering/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Mall_Customer_Hierarchical_Clustering/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/ML-Mall_Customer_Hierarchical_Clustering/blob/main/Images/3.png)
 
-![Image4]()
+![Image4](https://github.com/Anuragtsl/ML-Mall_Customer_Hierarchical_Clustering/blob/main/Images/4.png)
 
 
 #Njoy!
